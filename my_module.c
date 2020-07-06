@@ -4,6 +4,6 @@ int main(){
     int b=2;
     printf("%d \n",a+b);
     printf("%d \n",a-b);
-    printf("%d \n",a*b);
+    printf("%d \n",a*b);// 주석을 넣어봤지롱
     return 0;
 }
